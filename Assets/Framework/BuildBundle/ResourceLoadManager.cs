@@ -25,6 +25,7 @@ namespace JJ
 #elif UNITY_IOS
 "/IOS";
 #else
+"";
 #endif
 
 
